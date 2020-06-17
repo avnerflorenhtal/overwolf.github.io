@@ -7,13 +7,18 @@ sidebar_label:  Monetization overview
 
 Congratulations! You’ve created a great Overwolf app loved and used by many gamers. If you want to, you can now explore monetization capabilities such as subs or ads. Please make sure to follow our guidelines, and in case you choose to have ads, create a non-intrusive in-app ad experience, ideally with an ability to subscribe (and remove ads, get extra features etc.).
 
-## How does it work?
+## How does subscriptions work?
+
+Offer your users to become premium users! Adding extra perks or simply removing ads can be meaningful to support the app with out-of-the-box subscription plans. Read more [here](https://overwolf.github.io/docs/start/subscriptions-overview). 
+
+You can easily add image or video based ads to your app, and we'll do the rest in terms of targeting, ad inventory and paying out your revenues!
+## How does ads work?
 
 Earn revenue by placing ads in your app! Overwolf apps profit from advertising, and we've built a smart solution that only shows ads when gamers aren't playing or busy. This includes loading times, waiting for the next round, and other times which do not interrupt gameplay. 
 
 You can easily add image or video based ads to your app, and we'll do the rest in terms of targeting, ad inventory and paying out your revenues!
 
-#### Monetizing is simple
+#### Ads monetizing is simple
 
 ####
 1. Select the type and size of ads you wish to work with, and determine where will they be displayed visually in your app. Please review our ad policy or consult with the team if uncertain.
