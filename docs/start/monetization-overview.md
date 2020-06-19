@@ -9,11 +9,9 @@ Congratulations! You’ve created a great Overwolf app loved and used by many ga
 
 ## How does it work?
 
-Earn revenue by placing ads in your app! Overwolf apps profit from advertising, and we've built a smart solution that only shows ads when gamers aren't playing or busy. This includes loading times, waiting for the next round, and other times which do not interrupt gameplay. 
+We believe that monetizing is important in order to create and support a great app. Subscriptions offer your users to contribute to your journey while getting extra features, cosmetics or by simply removing ads. Ads are best implemented during loading times, between rounds and other times which do not interrupt gameplay. You can easily add image or video based ads to your app, and we'll do the rest in terms of targeting, ad inventory and paying out your revenues! We know that ads might damage the user experience, hence we QA any ad implemention before the ad goes live. 
 
-You can easily add image or video based ads to your app, and we'll do the rest in terms of targeting, ad inventory and paying out your revenues!
-
-#### Monetizing is simple
+#### Monetizing with ads is simple
 
 ####
 1. Select the type and size of ads you wish to work with, and determine where will they be displayed visually in your app. Please review our ad policy or consult with the team if uncertain.
